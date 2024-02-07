@@ -94,10 +94,12 @@ body {
 
 .main__article h1 {
     padding-bottom: 15px;
+        color: black
 }
 
 .main__article p {
     padding-bottom: 15px;
+        color: black
 }
 
 .main__aside {
